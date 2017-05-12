@@ -1,0 +1,15 @@
+﻿  Main.cpp
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(43): warning C4244: “+=”: 从“double”转换到“unsigned char”，可能丢失数据
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(59): warning C4244: “+=”: 从“double”转换到“unsigned char”，可能丢失数据
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(91): warning C4244: “参数”: 从“double”转换到“const std::complex<float>::_Ty”，可能丢失数据
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(143): warning C4244: “参数”: 从“double”转换到“const std::complex<float>::_Ty”，可能丢失数据
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(191): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(201): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(207): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(218): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+e:\vs2008workapce\fouriertransform\fouriertransform\main.cpp(235): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  FourierTransform.vcxproj -> E:\VS2015Workspace\FourierTransform\Debug\FourierTransform.exe
+  FourierTransform.vcxproj -> E:\VS2015Workspace\FourierTransform\Debug\FourierTransform.pdb (Partial PDB)

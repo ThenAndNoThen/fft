@@ -1,0 +1,13 @@
+﻿  Main.cpp
+..\..\..\VS2008workapce\FourierTransform\FourierTransform\Main.cpp(76): warning C4244: “参数”: 从“int”转换到“const std::complex<float>::_Ty”，可能丢失数据
+..\..\..\VS2008workapce\FourierTransform\FourierTransform\Main.cpp(77): warning C4244: “参数”: 从“int”转换到“const std::complex<float>::_Ty”，可能丢失数据
+..\..\..\VS2008workapce\FourierTransform\FourierTransform\Main.cpp(105): warning C4244: “参数”: 从“double”转换到“const std::complex<float>::_Ty”，可能丢失数据
+..\..\..\VS2008workapce\FourierTransform\FourierTransform\Main.cpp(149): warning C4244: “参数”: 从“double”转换到“const std::complex<float>::_Ty”，可能丢失数据
+..\..\..\VS2008workapce\FourierTransform\FourierTransform\Main.cpp(194): warning C4244: “初始化”: 从“double”转换到“unsigned char”，可能丢失数据
+  正在生成代码
+  9 of 73 functions (12.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FourierTransform.vcxproj -> E:\VS2015Workspace\FourierTransform\Release\FourierTransform.exe
+  FourierTransform.vcxproj -> E:\VS2015Workspace\FourierTransform\Release\FourierTransform.pdb (Full PDB)
